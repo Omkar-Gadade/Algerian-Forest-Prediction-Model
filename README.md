@@ -84,7 +84,7 @@ The **Algerian Forest Fires Dataset** contains **244 instances** from two region
 3. Run the Flask app:
 
    ```bash
-   python app.py
+   python application.py run
    ```
 
 4. Open your browser and go to `http://127.0.0.1:5000/`
@@ -99,8 +99,6 @@ The **Algerian Forest Fires Dataset** contains **244 instances** from two region
 
 ---
 
-
----
 
 ## 📌 Acknowledgment
 
