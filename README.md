@@ -102,7 +102,7 @@ The **Algerian Forest Fires Dataset** contains **244 instances** from two region
 
 ## 📌 Acknowledgment
 
-Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets/?search=Algerian+Forest+Fires)
 
 ---
 
